@@ -1,0 +1,11 @@
+.vscode/settings.json
+msvc-items/.gitattributes
+msvc-items/.gitignore
+msvc-items/mvnw
+msvc-items/mvnw.cmd
+msvc-items/.mvn/wrapper/maven-wrapper.properties
+msvc-products/.gitattributes
+msvc-products/.gitignore
+msvc-products/mvnw
+msvc-products/mvnw.cmd
+msvc-products/.mvn/wrapper/maven-wrapper.properties
